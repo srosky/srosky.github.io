@@ -33,7 +33,7 @@ export function Hero() {
                     // Get the mLink element
                     const mLink = document.getElementById("mlink");
                     // Set the href attribute to the mLink
-                    mLink?.setAttribute("href", "mailto:&#x63;&#x6f;&#x6e;&#x74;&#x61;&#x63;&#x74;&#x40;&#x62;&#x69;&#x74;&#x62;&#x6f;&#x74;&#x6c;&#x61;&#x62;&#x73;&#x2e;&#x63;&#x6f;&#x6d;");
+                    mLink?.setAttribute("href", "mailto:contact@bitbotlabs.com");
                 }}>Get Started</Button>
 
             </div>
